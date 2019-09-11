@@ -9,11 +9,14 @@ name: erik is blogging
 description: mostly powershell and some other..
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ./images/logo.png
+avatar: https://enoorden.github.io/images/logo.png
 
 #
 # Flags below are optional
 #
+
+#REmove Theme
+remote_theme: sparanoid/almace-scaffolding
 
 # Includes an icon in the footer for each username you enter
 footer-links:
